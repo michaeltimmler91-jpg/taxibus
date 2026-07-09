@@ -131,5 +131,9 @@
       <parent>vehshare</parent>
       <child>lst_shuttle</child>
     </Item>
+    <Item>
+      <parent>vehshare_truck</parent>
+      <child>lst_shuttle</child>
+    </Item>
   </txdRelationships>
 </CVehicleModelInfo__InitDataList>
