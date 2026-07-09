@@ -16,7 +16,7 @@
       <animConvRoofName>null</animConvRoofName>
       <animConvRoofWindowsAffected />
       <ptfxAssetName>null</ptfxAssetName>
-      <audioNameHash>SHUTTLEBUS</audioNameHash>
+      <audioNameHash>BUS</audioNameHash>
       <layout>LAYOUT_BUS</layout>
       <coverBoundOffsets>BUS_COVER_OFFSET_INFO</coverBoundOffsets>
       <explosionInfo>EXPLOSION_INFO_DEFAULT</explosionInfo>
