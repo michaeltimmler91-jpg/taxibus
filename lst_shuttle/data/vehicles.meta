@@ -5,7 +5,7 @@
 
   <InitDatas>
     <Item>
-      <modelName>lst_shuttle</modelName>
+      <modelName>rentalbus</modelName>
       <txdName>rentalbus</txdName>
       <handlingId>LST_SHUTTLE</handlingId>
       <gameName>LSTSHUTTLE</gameName>
