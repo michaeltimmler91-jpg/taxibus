@@ -6,7 +6,7 @@
   <InitDatas>
     <Item>
       <modelName>lst_shuttle</modelName>
-      <txdName>lst_shuttle</txdName>
+      <txdName>rentalbus</txdName>
       <handlingId>LST_SHUTTLE</handlingId>
       <gameName>LSTSHUTTLE</gameName>
       <vehicleMakeName>BRUTE</vehicleMakeName>
@@ -129,11 +129,11 @@
   <txdRelationships>
     <Item>
       <parent>vehshare</parent>
-      <child>lst_shuttle</child>
+      <child>rentalbus</child>
     </Item>
     <Item>
       <parent>vehshare_truck</parent>
-      <child>lst_shuttle</child>
+      <child>rentalbus</child>
     </Item>
   </txdRelationships>
 </CVehicleModelInfo__InitDataList>
