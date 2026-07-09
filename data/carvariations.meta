@@ -2,7 +2,7 @@
 <CVehicleModelInfoVariation>
   <variationData>
     <Item>
-      <modelName>tourbus</modelName>
+      <modelName>lst_shuttle</modelName>
       <colors>
         <Item>
           <indices content="char_array">89 0 0 156</indices>
