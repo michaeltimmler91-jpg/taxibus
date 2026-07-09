@@ -4,8 +4,8 @@
   <residentAnims />
   <InitDatas>
     <Item>
-      <modelName>tourbus</modelName>
-      <txdName>tourbus</txdName>
+      <modelName>lst_shuttle</modelName>
+      <txdName>lst_shuttle</txdName>
       <handlingId>LST_SHUTTLE</handlingId>
       <gameName>LSTSHUTTLE</gameName>
       <vehicleMakeName>BRUTE</vehicleMakeName>
@@ -121,11 +121,11 @@
   <txdRelationships>
     <Item>
       <parent>vehshare</parent>
-      <child>tourbus</child>
+      <child>lst_shuttle</child>
     </Item>
     <Item>
       <parent>vehshare_truck</parent>
-      <child>tourbus</child>
+      <child>lst_shuttle</child>
     </Item>
   </txdRelationships>
 </CVehicleModelInfo__InitDataList>
